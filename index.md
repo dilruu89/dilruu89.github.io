@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Customer Segmentation](/sample_page)
-<img src="images/cust_seg_1.PNG?raw=true"/>
+<img src="images/cust_seg_1.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
