@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Customer Segmentation](/sample_page)
+[Customer Segmentation](/customer_segmentation.md)
 <img src="images/cust_seg_1.png?raw=true"/>
 
 ---
