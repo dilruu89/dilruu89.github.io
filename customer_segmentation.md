@@ -2,9 +2,9 @@
 
 **Project Link:** https://github.com/dilruu89/Kaggle/blob/main/01-customer-segmentation-bank-transactions.ipynb
 
-**Project description:** Customer segmentation is a smart way businesses group their customers into different categories based on things they have in common. This helps businesses understand what their customers like and how they act. By knowing this, companies can make their products and marketing better to suit each group of customers.
-
-The main goal of this project is to understand how to perform customer segmentation using clustering techniques with a specific dataset. I have utilized a dataset from Kaggle for this purpose. This big dataset has lots of information about more than a million times when people used a bank in India. It tells us about the people, their ages, where they are, and how much money they have in their accounts. I use this data to learn more about the customers and put them into groups that make sense. 
+**Project description:** Customer segmentation is a smart way businesses group their customers into different categories based on things they have in common. This helps businesses understand what their customers like and how they act. By knowing this, companies can make their products and marketing better to suit each group of customers. The main goal of this project is to understand how to perform customer segmentation using clustering techniques with a specific dataset. 
+  
+  I have utilized a dataset from Kaggle for this purpose. This big dataset has lots of information about more than a million times when people used a bank in India. It tells us about the people, their ages, where they are, and how much money they have in their accounts. I use this data to learn more about the customers and put them into groups that make sense. 
 
 ```javascript
 data = pd.read_csv('/kaggle/input/bank-customer-segmentation/bank_transactions.csv')
