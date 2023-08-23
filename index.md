@@ -19,15 +19,14 @@
 
 ### Research Projects
 
-- [Project 1 Title](http://example.com/)
+- [Generating_Name-Like_Numbers](/generate_Name_like_numbers.md)
+  <img src="images/dummy_thumbnail.jpg?raw=true"/>
+  
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 
 
 ---
-
-
-
 
 
 <!--<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
