@@ -8,12 +8,12 @@
 <img src="images/cust_seg_1.png?raw=true"/>
 
 ---
-[Natural Language Processing](/pdf/sample_presentation.pdf)
+[Tweet Sentiment Extraction](/pdf/sample_presentation.pdf)
 <img src="images/tweet_sent_1.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Heart Decease Predictions](http://example.com/)
+<img src="images/log_reg_1.png?raw=true"/>
 
 ---
 
