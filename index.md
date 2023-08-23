@@ -9,7 +9,7 @@
 
 ---
 [Natural Language Processing](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/tweet_sent_1.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
@@ -19,8 +19,8 @@
 
 ### Research Projects
 
-- [Generating_Name-Like_Numbers](/generate_Name_like_numbers.md)
-  <img src="images/dummy_thumbnail.jpg?raw=true"/>
+- [Generating Name-Like Numbers](/generate_Name_like_numbers.md)
+  <img src="images/stress_.png?raw=true"/>
   
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
