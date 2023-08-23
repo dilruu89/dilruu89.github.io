@@ -19,7 +19,7 @@
 
 ### Research Projects
 
-- [Generating Name-Like Numbers](/generate_Name_like_numbers.md)
+- [Generating Name-Like Numbers](/https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9585113)
   <img src="images/stress_.png?raw=true"/>
   
 - [Project 2 Title](http://example.com/)
