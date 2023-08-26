@@ -12,7 +12,7 @@
 <img src="images/tweet_sent_1.png?raw=true"/>
 
 ---
-[Heart Decease Predictions](http://example.com/)
+[Heart Decease Predictions](heart_decease_prediction.md)
 <img src="images/log_reg_1.png?raw=true"/>
 
 ---
