@@ -1,6 +1,6 @@
 ## Heart Disease Prediction (Logistic Regression)
 
-**Project Link:** https://github.com/dilruu89/Kaggle/blob/main/01-customer-segmentation-bank-transactions.ipynb
+**Project Link:** (https://github.com/dilruu89/Kaggle/blob/f64961bab55b2f0f8ae3aba0df8de57bd93c7a06/01-logistic-regression-heart-desease.ipynb)
 
 **Project description:** Studies show that coronary heart disease (CHD) is responsible for around 382,820 fatalities each year in the USA, while approximately  697,000 individuals face the risk of heart disease annually. It is not better in Australia, and CHD is a leading cause of death in Australia. Deaths from CHD represent 78,052 years of potential life lost in Australia. Hence, detecting heart conditions early on is very important to prevent them from happening or encourage high-risk people to make changes in their lifestyles  or habits to minimize potential risks.
 
