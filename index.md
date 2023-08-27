@@ -4,11 +4,11 @@
 
 ### Data Science Projects
 
-[Customer Segmentation](/customer_segmentation)
+[Customer Segmentation](/customer_segmentation.md)
 <img src="images/cust_seg_1.png?raw=true"/>
 
 ---
-[Tweet Sentiment Extraction](/pdf/sample_presentation.pdf)
+[Tweet Sentiment Extraction](/tweeter_sentiment_extraction.md)
 <img src="images/tweet_sent_1.png?raw=true"/>
 
 ---
