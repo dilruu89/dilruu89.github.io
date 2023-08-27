@@ -1,6 +1,6 @@
 ## Tweet Sentiment Extraction (LSTM)
 
-**Project Link:** <https://github.com/dilruu89/Kaggle/blob/main/01-logistic-regression-heart-desease.ipynb>
+**Project Link:** <https://github.com/dilruu89/Kaggle/blob/main/nlp-02-tweet-sentiment-extraction.ipynb>
 
 **Project description:** Sentiment analysis is an automated technique that extracts insights from text data by categorizing them into positive, negative, or neutral polarities. It's widely applied to interpret customer feedback, survey responses, and product reviews. Consequently, organizations can measure public sentiment about their products, brands, or services through online conversations.
 
