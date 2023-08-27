@@ -10,15 +10,14 @@ For this study, I've selected Kaggle's Tweet Sentiment Extraction competition da
 
 ```javascript
 data = pd.read_csv('/kaggle/input/tweetsentiment/train.csv')
+data = pd.read_csv('/kaggle/input/tweetsentiment/test.csv')
 
 ```
 
 ### Techniques/ Algorithms / Metrics
 
-In the beginning stages, I performed Exploratory Data Analysis (EDA). This was followed by the selection of important features, construction of the model, and subsequently evaluation of its performance. The primary techniques applied for model creation and performance assessment are as follows.
+In the beginning stages, I performed Exploratory Data Analysis (EDA). This was followed by data preprocessing, model building and training, and subsequently evaluation of its performance. The primary techniques applied for model creation and performance assessment are as follows.
 
-1. Logistic Regression
-2. Correlation Analysis
-3. Backward Feature selection
-4. Confusion Matrix
-5. ROC curve
+1. Tokenization
+2. Long Short-Term Memory (LSTM) networks
+   
