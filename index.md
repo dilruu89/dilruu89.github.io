@@ -9,7 +9,7 @@
 
 ---
 [Tweet Sentiment Extraction](/tweeter_sentiment_extraction.md)
-<img src="images/tweet_sent_1.png?raw=true"/>
+<img src="images/tweet_sent_2.png?raw=true"/>
 
 ---
 [Heart Decease Predictions](heart_decease_prediction.md)
