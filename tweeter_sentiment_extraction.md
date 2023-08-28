@@ -1,4 +1,4 @@
-## Tweet Sentiment Extraction (LSTM)
+## Tweet Sentiment Extraction (LSTM Networks)
 
 **Project Link:**<a href="https://github.com/dilruu89/Kaggle/blob/main/nlp-02-tweet-sentiment-extraction.ipynb" target="_blank">Tweet Sentiment Extraction Jupyter Notebook</a>
 
