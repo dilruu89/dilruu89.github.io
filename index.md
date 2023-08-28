@@ -24,11 +24,14 @@
 
 ### Research Projects
 
-- [Generating Name-Like Numbers](generate_name_like_numbers.md)
+- [Generating Name-Like Numbers](/generate_name_like_numbers.md)
   <img src="images/stress_.png?raw=true"/>
   
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
+- [Em-K Indexing for Approximate Query Matching in Large-scale ER](/em-k_indexing.md)
+   <img src="images/01_new_query_NN.png?raw=true"/>
+   
+- [High Performance Out-of-sample Embedding Techniques for Multidimensional Scaling](/OSE_techniques.md)
+   <img src="images/01_scatter_1.5k.png?raw=true"/>
 
 
 ---
