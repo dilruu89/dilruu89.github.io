@@ -4,7 +4,7 @@
 
 <div style="text-align: justify"> 
 
-**Project description:** Studies show that coronary heart disease (CHD) is responsible for around 382,820 fatalities each year in the USA, while approximately  697,000 individuals face the risk of heart disease annually. It is not better in Australia, and CHD is a leading cause of death in Australia. Deaths from CHD represent 78,052 years of potential life lost in Australia. Hence, detecting heart conditions early on is very important to prevent them from happening or encourage high-risk people to make changes in their lifestyles  or habits to minimize potential risks.
+**Project description:** Studies show that coronary heart disease (CHD) is responsible for around 382,820 fatalities each year in the USA, while approximately  697,000 individuals face the risk of heart disease annually. It is not better in Australia, and CHD is a leading cause of death in Australia. Deaths from CHD represent 78,052 years of potential life lost in Australia. Hence, detecting heart conditions early on is very important to prevent them from happening or encourage high-risk people to make changes in their lifestyles or habits to minimize potential risks.
 </div>
 
 <div style="text-align: justify"> 
