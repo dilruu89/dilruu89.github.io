@@ -1,8 +1,6 @@
 ## Customer Segmentation (K-means, PCA based model)
 
-**Project Link:**<https://github.com/dilruu89/Kaggle/blob/main/01-customer-segmentation-bank-transactions.ipynb>
-
-<a href="http://example.com/](https://github.com/dilruu89/Kaggle/blob/main/01-customer-segmentation-bank-transactions.ipynb" target="_blank">Hello, world!</a>
+**Project Link:**<a href="https://github.com/dilruu89/Kaggle/blob/main/01-customer-segmentation-bank-transactions.ipynb" target="_blank">Customer Segementation Jupyter Notebook</a>
 
 **Project description:** Customer segmentation is a smart way businesses group their customers into different categories based on things they have in common. This helps businesses understand what their customers like and how they act. By knowing this, companies can make their products and marketing better to suit each group of customers. The main goal of this project is to understand how to perform customer segmentation using clustering techniques with a specific dataset. 
   
