@@ -1,14 +1,18 @@
-Paper available at: https://ieeexplore.ieee.org/document/9585113
+## Em-K Indexing for Approximate Query Matching in Large-scale ER
 
-Project description: Entity resolution (ER), the problem of identifying and matching records that belong to the same real-world entities in structured and unstructured data, is a primary task in data integration. Accurate and efficient entity resolution has a huge practical impact on a range of applications across commercial, security and scientific domains. Recently, scalable ER techniques have received enormous attention with the increasing need to combine large-scale datasets. Developing and testing ER algorithms suffer from the shortage of training and ground truth data. Good public datasets, especially those containing personal information, are restricted in this area and usually small in size. Due to privacy and confidential issues, testing algorithms or techniques with real datasets is challenging in ER research. Simulation is one technique for generating synthetic datasets that follow similar characteristics as real data for testing algorithms.
+**Paper available at:** <https://arxiv.org/abs/2111.04070>
 
-Many existing simulation tools in ER lack support for generating large-scale data and have problems in complexity, scalability, and limitations of resampling. In our work, we propose a simple, inexpensive, and fast synthetic data generation tool. In the first stage, our tool only generates entity names that are commonly used as identification keys in ER algorithms. We avoid the detail-level simulation of entity names using a simple vector representation that delivers simplicity and efficiency. In this paper, we will discuss how to simulate simple vectors that approximate the properties of entity names. We describe the overall construction of the tool based on data analysis of a namespace that contains entity names collected from the actual environment.
+**Project description:** In various data mining and analysis projects that involve managing and processing extensive data collections, achieving accurate and efficient entity resolution (ER) poses a significant challenge. ER involves integrating data to identify matching entities, and this task becomes especially crucial when dealing with large datasets. The need for swift responses to entity queries on substantial databases is becoming more prevalent in real-world applications.
 
-Techniques/ Algorithms / Metrics
+A particularly demanding scenario arises in applications where entity queries need to be matched against extensive reference databases promptly. We term this the "query matching problem" in ER. To address this issue, we introduce an approach that focuses on indexing techniques, seeking to decrease search space and execution time during the ER process. Notably, our focus is on approximate indexing methods that are amenable to scaling for very large datasets.
+
+In summary, our work addresses the challenge of efficient entity resolution in the context of large-scale datasets. We tackle the query-matching problem by introducing an indexing technique that leverages spatial mappings, Kd-trees, and nearest neighbor search. Our method shows promise in terms of scalability, efficiency, and practical applicability, as demonstrated through experimental evaluations on different datasets.
+
+### Techniques/ Algorithms / Metrics
+
 The following are the techniques/analyses I mainly used in this project.
 
-Multidimensional Scaling
-Dimension Reduction
-Multivariate Normal Analysis
-Gaussian and Zip distribution
-Embedding Strings as Vectors
+1. Multidimensional Scaling
+2. Dimension Reduction
+3. Spatial Mapping
+4. Kd-Tree and Nearest Neighbor Search
