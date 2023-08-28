@@ -9,10 +9,10 @@ Many existing simulation tools in ER lack support for generating large-scale dat
 
 ### Techniques/ Algorithms / Metrics
 
-The following are the techniques/analyses I mainly used in this project.
+The following are the techniques/analyses we mainly used in this project.
 
 1. Multidimensional Scaling
 2. Dimension Reduction
 3. Multivariate Normal Analysis
-4. Gaussian and Zip distribution
+4. Gaussian and Zip distributions
 5. Embedding Strings as Vectors
