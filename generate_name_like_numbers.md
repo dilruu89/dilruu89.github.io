@@ -1,6 +1,7 @@
 ## Generating name-like numbers
 
-**Paper available at:** <https://ieeexplore.ieee.org/document/9585113>
+**Paper available at:**<a href="https://ieeexplore.ieee.org/document/9585113" target="_blank">Generating name-like numbers</a>
+
 
 **Project description:** Entity resolution (ER), the problem of identifying and matching records that belong to the same real-world entities in structured and unstructured data, is a primary task in data integration. Accurate and efficient entity resolution has a huge practical impact on a range of applications across commercial, security and scientific domains. Recently, scalable ER techniques have received enormous attention with the increasing need to combine large-scale datasets. Developing and testing ER algorithms suffer from the shortage of training and ground truth data. Good public datasets, especially those containing personal information, are restricted in this area and usually small in size. Due to privacy and confidential issues, testing algorithms or techniques with real datasets is challenging in ER research. Simulation is one technique for generating synthetic datasets that follow similar characteristics as real data for testing algorithms. 
 
