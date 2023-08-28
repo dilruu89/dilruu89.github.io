@@ -1,6 +1,5 @@
 ## Em-K Indexing for Approximate Query Matching in Large-scale ER
 
-
 **Paper available at:**<a href="https://arxiv.org/abs/2111.04070" target="_blank">Em-K Indexing</a>
 
 **Project description:** In various data mining and analysis projects that involve managing and processing extensive data collections, achieving accurate and efficient entity resolution (ER) poses a significant challenge. ER involves integrating data to identify matching entities, and this task becomes especially crucial when dealing with large datasets. The need for swift responses to entity queries on substantial databases is becoming more prevalent in real-world applications.
