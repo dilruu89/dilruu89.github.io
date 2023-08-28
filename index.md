@@ -17,6 +17,11 @@
 
 ---
 
+[House Price Predictions](house_price_prediction.md)
+<img src="images/log_reg_1.png?raw=true"/>
+
+---
+
 ### Research Projects
 
 - [Generating Name-Like Numbers](generate_name_like_numbers.md)
