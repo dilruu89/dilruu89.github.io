@@ -1,6 +1,7 @@
 ## Tweet Sentiment Extraction (LSTM)
 
-**Project Link:** <https://github.com/dilruu89/Kaggle/blob/main/nlp-02-tweet-sentiment-extraction.ipynb>
+**Project Link:**<a href="https://github.com/dilruu89/Kaggle/blob/main/nlp-02-tweet-sentiment-extraction.ipynb" target="_blank">Tweet Sentiment Extraction Jupyter Notebook</a>
+
 
 **Project description:** Sentiment analysis is an automated technique that extracts insights from text data by categorizing them into positive, negative, or neutral polarities. It's widely applied to interpret customer feedback, survey responses, and product reviews. Consequently, organizations can measure public sentiment about their products, brands, or services through online conversations.
 
@@ -20,4 +21,7 @@ In the beginning stages, I performed Exploratory Data Analysis (EDA). This was f
 
 1. Tokenization
 2. Long Short-Term Memory (LSTM) networks
+3. Accuracy, F1-score
+4. Confusion matrix
+   
    
