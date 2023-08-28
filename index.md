@@ -27,7 +27,7 @@
 - [Generating Name-Like Numbers](/generate_name_like_numbers.md)
   <img src="images/stress_.png?raw=true"/>
   
-- [Em-K Indexing for Approximate Query Matching in Large-scale ER](/em-k_indexing.md)
+- [Em-K Indexing for Approximate Query Matching in Large-scale ER](/em-k _indexing.md)
    <img src="images/01_new_query_NN.png?raw=true"/>
    
 - [High Performance Out-of-sample Embedding Techniques for Multidimensional Scaling](/OSE_techniques.md)
