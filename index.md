@@ -18,7 +18,7 @@
 ---
 
 [House Price Predictions](house_price_prediction.md)
-<img src="images/log_reg_1.png?raw=true"/>
+<img src="images/house_price_1.png?raw=true"/>
 
 ---
 
