@@ -17,7 +17,7 @@ data = pd.read_csv('/kaggle/input/heart-disease-prediction-using-logistic-regres
 ### Techniques/ Algorithms / Metrics
 
 In the beginning stages, I performed Exploratory Data Analysis (EDA). This was followed by the selection of important features, construction of the model, and subsequently evaluation of its performance. The primary techniques applied for model creation and performance assessment are as follows.
-</div>
+
 1. Logistic Regression
 2. Correlation Analysis
 3. Backward Feature selection
