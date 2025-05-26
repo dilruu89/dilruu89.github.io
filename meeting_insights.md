@@ -1,4 +1,4 @@
-## Language Intelligence Tasks (Text Summerization, Chat Completion, Sentiment Analysis)
+## SmartMinutes for Language Intelligence Tasks (Text Summerization, Chat Completion, Sentiment Analysis)
 
 **Project Link:**<a href="https://github.com/dilruu89/GENAI/tree/main/30-day-genai/chatbot-01" target="_blank">Meeting insights chatbot</a>
 
@@ -10,7 +10,7 @@ Modern teams generate a lot of unstructured information in meetings—often in t
 - A list of actionable items (with responsibilities),
 - Key themes or topics discussed, and
 - An assessment of the meeting’s overall sentiment.
-- 
+  
 This helps teams stay aligned, follow up faster, and capture outcomes with less effort.
 
 ### Technologies 
@@ -22,10 +22,10 @@ This helps teams stay aligned, follow up faster, and capture outcomes with less 
 
 The core of SmartMinutes is an engineered prompt that guides the AI to extract exactly what users need. I followed these prompt design principles:
 
-- ** Role-based framing **: The assistant was instructed to behave like a professional meeting summarizer ("You are SmartMinutes, an AI assistant...").
-- ** Explicit structure ** : I defined clear output sections—Summary, Action Items, Themes, Sentiment—to ensure predictable, parseable results.
-- ** Context awareness ** : The prompt includes the entire transcript so the AI can extract relationships and intent across paragraphs.
-- ** Instructional clarity ** : I used direct, numbered instructions in the prompt to minimize ambiguity and hallucination.
+- **Role-based framing**: The assistant was instructed to behave like a professional meeting summarizer ("You are SmartMinutes, an AI assistant...").
+- **Explicit structure** : I defined clear output sections—Summary, Action Items, Themes, Sentiment—to ensure predictable, parseable results.
+- **Context awareness** : The prompt includes the entire transcript so the AI can extract relationships and intent across paragraphs.
+- **Instructional clarity** : I used direct, numbered instructions in the prompt to minimize ambiguity and hallucination.
 
 The prompt will be tested and refined iteratively based on edge cases (e.g., vague notes, informal language, multiple speakers).
 
