@@ -4,7 +4,7 @@
 ### Generative AI Projects
 
 [Language Intelligence Tasks](/meeting_insights.md)
-<img src="images/cust_seg_1.png?raw=true"/>
+
 
 ### Data Science Projects
 
