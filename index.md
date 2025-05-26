@@ -3,8 +3,8 @@
 ---
 ### Generative AI Projects
 
-[Chat Completion/Text Summerization/ Sentiment analysis](/meeting_insights.md)
-<img src="images/cust_seg_1.png?raw=true"/>
+[SmartMinutes - Language Intelligence Tasks](/meeting_insights.md)
+<img src="images/smartminutes.png?raw=true"/>
 
 ### Data Science Projects
 
