@@ -1,6 +1,8 @@
 ## SmartMinutes for Language Intelligence Tasks (Text Summerization, Chat Completion, Sentiment Analysis)
 
-**Project Link:**<a href="https://github.com/dilruu89/GENAI/tree/main/30-day-genai/chatbot-01" target="_blank">Meeting insights chatbot</a>
+**Project Link:**<a href="https://fdmdnijwdabu2psnlg5g6r.streamlit.app/" target="_blank">Meeting insights chatbot</a>
+
+
 
 **Project Description:** 
 
