@@ -6,6 +6,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <em>"I see the beauty now of statistics and machine learning and the stories that a great deal of data can tell us."</em>
   <br><br>
   <a href="https://www.linkedin.com/in/sdherath/">View My LinkedIn Profile</a> 
+  <br><br>
   <a href="https://medium.com/@sam_on_md">View My Medium Profile</a> 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
