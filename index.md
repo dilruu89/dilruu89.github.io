@@ -9,6 +9,11 @@
 
 ### Data Science Projects
 
+[Credit Risk Modelling](/credit_risk_modelling.md)
+<img src="images/credit_risk.png?raw=true"/>
+
+---
+
 [Customer Segmentation](/customer_segmentation.md)
 <img src="images/cust_seg_1.png?raw=true"/>
 
