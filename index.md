@@ -6,6 +6,7 @@
 [Language Intelligence Tasks](/meeting_insights.md)
 <img src="images/meeting_insights.png"/>
 
+---
 
 ### Data Science Projects
 
