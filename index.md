@@ -1,6 +1,6 @@
 ## Portfolio
 
----
+
 ### Generative AI Projects
 
 [Language Intelligence Tasks](/meeting_insights.md)
